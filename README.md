@@ -4,13 +4,33 @@
 <p align="left"><a href="https://www.linkedin.com/in/fillipe-araujo/"><strong>Fillipe Araujo</strong></a>, entusiasta da tecnologia, motivado por desafios e estou sempre em busca de novas maneiras de usar a tecnologia para melhorar o mundo ao meu redor. <br>
 </a></p>
  
+ <h3 align="left">Esou aprendendo:</h3>
+
+![JavaScript](https://img.shields.io/badge/JavaScript-ECE2FB?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
+![Java](https://img.shields.io/badge/Java-ECE2FB?style=for-the-badge&logo=java)
+
+
+<h3 align="left">Desejo aprender: </h3>
+
+![Python](https://img.shields.io/badge/Python-ECE2FB?style=for-the-badge&logo=python)
+![Angular](https://img.shields.io/badge/Angular-ECE2FB?style=for-the-badge&logo=angular&logoColor=FF0000)
+![React.js](https://img.shields.io/badge/React-ECE2FB?style=for-the-badge&logo=react)
+![TypeScript](https://img.shields.io/badge/TypeScript-ECE2FB?style=for-the-badge&logo=typescript)
+
+<h3 align="left">GitHub Stats</h3>
+
+![Anurag's GitHub stats](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=Fillpin&hide_title=true&show_icons=true&include_all_commits=false&count_private=true&line_height=25&hide=issues&bg_color=020114&title_color=00FF7F&text_color=FFF&border_radius=3&border_color=00FF7F&icon_color=00FF7F&theme=jolly)
+[![Top Langs](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=Fillpin&line_height=10&card_width=290&layout=compact&hide_title=false&count_private=true&langs_count=4&show_icons=true&title_color=00FF7F&hide=html,css&bg_color=020114&text_color=8B8B8B&border_radius=3&border_color=181832)](https://github.com/Fillpin/github-readme-stats)
+  <br>
+
+<details align="left">
+  <summary></summary> 
  
-
-### Welcome! 🖥️
-
-
-<!--
-**Fillpin/Fillpin** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+  - Badges by <a href="https://shields.io/">shields.io</a><br>
+  - GitHub Stats by <a href="https://github.com/anuraghazra/github-readme-stats">anuraghazra</a>
+  - Developer vector created by <a href="https://www.freepik.com/vectors/developer">storyset - www.freepik.com</a> (edited by author)
+ 
+</details>
 
 
 
