@@ -1,10 +1,10 @@
 <img align="right" alt="Developer vector created by Fillipe Araujo" height="300" src="https://user-images.githubusercontent.com/106853088/224595953-6144b836-a731-45d0-8285-176bf5685e2e.png">
-<h1 id="top" align="left">About me</h1>
+<h1 id="top" align="left">Sobre mim:</h1>
 
 <p align="left"><a href="https://www.linkedin.com/in/fillipe-araujo/"><strong>Fillipe Araujo</strong></a>, entusiasta da tecnologia, motivado por desafios e estou sempre em busca de novas maneiras de usar a tecnologia para melhorar o mundo ao meu redor. <br>
 </a></p>
  
- <h3 align="left">Esou aprendendo:</h3>
+ <h3 align="left">Estou aprendendo:</h3>
 
 ![JavaScript](https://img.shields.io/badge/JavaScript-ECE2FB?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
 ![Java](https://img.shields.io/badge/Java-ECE2FB?style=for-the-badge&logo=java)
@@ -29,6 +29,7 @@
   - Badges by <a href="https://shields.io/">shields.io</a><br>
   - GitHub Stats by <a href="https://github.com/anuraghazra/github-readme-stats">anuraghazra</a>
   - Developer vector created by <a href="https://www.freepik.com/vectors/developer">storyset - www.freepik.com</a> (edited by author)
+  - README.md inspired by elidianaandrande
  
 </details>
 
