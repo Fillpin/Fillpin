@@ -9,6 +9,10 @@
 ![JavaScript](https://img.shields.io/badge/JavaScript-ECE2FB?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
 ![Java](https://img.shields.io/badge/Java-ECE2FB?style=for-the-badge&logo=java)
 
+<a href="https://github.com/Fillpin/loops-e-arrays/tree/master/src/br/com/dio/exercicios/loops/pythonbrasil"><strong>Exercícios Loops - Site Pyhon Brasil</strong></a>
+
+
+
 
 <h3 align="left">Desejo aprender: </h3>
 
